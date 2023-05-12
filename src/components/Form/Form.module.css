@@ -1,0 +1,23 @@
+.detail{
+    margin: 20px 20px;
+    border: 20px 20px;
+    padding:10px 25px;
+    font-size: 12px;
+    text-shadow:   -1px -1px 0 #000000,  
+    1px -1px 0 #000000,
+   -1px 1px 0 #000000,
+    1px 1px 0 #000000;
+    color:#ffffff;
+    background-color: black;
+    background-size:cover;
+    width: 20%;
+
+}
+
+.linea1{
+    background-color: #000000;
+    display:none;
+    text-align: left;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}

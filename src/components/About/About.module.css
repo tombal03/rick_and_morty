@@ -1,0 +1,10 @@
+.contenedor{
+    width: 100px;
+    margin: 10px 10px;
+    padding:auto;
+    font-size:italic;
+    background-color: #208D45;
+    color:#000;
+    border-style: solid;
+
+}

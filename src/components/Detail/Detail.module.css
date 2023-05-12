@@ -1,0 +1,19 @@
+
+
+.detail{
+    width: 200;
+    margin: 10px 10px;
+    padding:auto;
+    font-size: 25px;
+    text-shadow:   -1px -1px 0 #000000,  
+    1px -1px 0 #000000,
+   -1px 1px 0 #000000,
+    1px 1px 0 #000000;
+    background-image: url('../asets/auxiliar.jpg');
+    color:#ffffff;
+    border-style: solid;
+    border-color: #000000;
+    background-size: 200px 200px;
+    width: 100%;
+    background-position: center;
+}
